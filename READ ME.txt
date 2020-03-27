@@ -1,0 +1,14 @@
+URL :http://localhost/cfs
+Admin Login 
+Username : admin
+Password : admin
+
+User Login 
+Username : user
+Password : user
+
+Don't forgot to create a databse named 'dbimage'and import the sql file.
+
+Basically, the admin is the only one that can create accounts.
+User create albums and upload images into them.
+They can edit, delete and compress.
