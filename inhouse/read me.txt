@@ -1,0 +1,8 @@
+Link for usersto acces website
+http://localhost/image-manager/inhouse/index.php
+
+Link for admin to upload
+http://localhost/image-manager/inhouse/upload.php
+
+So, basically after the admin has uploaded into the repository for other staffs within the organization, he 
+needs to upload again from the repository for the user.
